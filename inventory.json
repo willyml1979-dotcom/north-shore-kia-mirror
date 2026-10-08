@@ -1,6 +1,6 @@
 {
   "dealership": "North Shore Kia",
-  "generated_at": "2026-10-04T11:03:01",
+  "generated_at": "2026-10-08T14:42:53",
   "vehicle_count": 159,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -13,7 +13,9 @@
       "source_url": "https://www.nskia.ca/inventory/2015-lexus-is-250-TMF9NyV0Qy6qcCmKcOtnRQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2015-lexus-is-250-TMF9NyV0Qy6qcCmKcOtnRQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T19:57:43",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2017FordEscapeTitanium",
@@ -24,7 +26,9 @@
       "source_url": "https://www.nskia.ca/inventory/2017-ford-escape-titanium-TEG9efCjQYiv2GHVxJYhmwvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2017-ford-escape-titanium-TEG9efCjQYiv2GHVxJYhmwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:46:25",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2017HondaCR-VLX",
@@ -35,7 +39,9 @@
       "source_url": "https://www.nskia.ca/inventory/2017-honda-cr-v-lx-U760hDZ1Qa2D2QeVUKOovwvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2017-honda-cr-v-lx-U760hDZ1Qa2D2QeVUKOovwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:46:37",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2017KiaSedonaLX",
@@ -45,7 +51,9 @@
       "source_url": "https://www.nskia.ca/inventory/2017-kia-sedona-lx-vIwaMAWeRKufeKTR8Csp0wvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2017-kia-sedona-lx-vIwaMAWeRKufeKTR8Csp0wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:46:49",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2017KiaSportageEX",
@@ -56,7 +64,9 @@
       "source_url": "https://www.nskia.ca/inventory/2017-kia-sportage-ex-HfvkhuYZQmCZJoNhXofRsAvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2017-kia-sportage-ex-HfvkhuYZQmCZJoNhXofRsAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:46:59",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2017KiaSportageEX",
@@ -67,7 +77,9 @@
       "source_url": "https://www.nskia.ca/inventory/2017-kia-sportage-ex-VZY7BVClT7O8mQgcRUNW5wvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2017-kia-sportage-ex-VZY7BVClT7O8mQgcRUNW5wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:47:11",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2017NissanRogueS",
@@ -78,7 +90,9 @@
       "source_url": "https://www.nskia.ca/inventory/2017-nissan-rogue-s-QB3Satj0S5eFzOWEQmky2Avdp",
       "dealer_url": "https://www.nskia.ca/inventory/2017-nissan-rogue-s-QB3Satj0S5eFzOWEQmky2Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:47:21",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2018ChevroletBolt EVPremier",
@@ -88,7 +102,9 @@
       "source_url": "https://www.nskia.ca/inventory/2018-chevrolet-bolt-ev-premier-3twrhGYTRwm7DJDJBDbK5Qvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2018-chevrolet-bolt-ev-premier-3twrhGYTRwm7DJDJBDbK5Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T19:58:57",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2018KiaOptima HybridEX",
@@ -98,7 +114,9 @@
       "source_url": "https://www.nskia.ca/inventory/2018-kia-optima-hybrid-ex-ff4LwY0iTZalWABOspwxzgvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2018-kia-optima-hybrid-ex-ff4LwY0iTZalWABOspwxzgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:47:40",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2018NissanMuranoSL",
@@ -109,7 +127,9 @@
       "source_url": "https://www.nskia.ca/inventory/2018-nissan-murano-sl-ZkKAOOtjSbKeIbFwxFyqoAvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2018-nissan-murano-sl-ZkKAOOtjSbKeIbFwxFyqoAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:47:51",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2019Mercedes-BenzGLCGLC 300",
@@ -119,7 +139,9 @@
       "source_url": "https://www.nskia.ca/inventory/2019-mercedes-benz-glc-glc-300-PqGiAuTsTb6qSaZ5PJQu7Qvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2019-mercedes-benz-glc-glc-300-PqGiAuTsTb6qSaZ5PJQu7Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:48:00",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2019NissanKicks",
@@ -129,7 +151,9 @@
       "source_url": "https://www.nskia.ca/inventory/2019-nissan-kicks-jNT0y1n7Qz6GDFa9lbp1OQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2019-nissan-kicks-jNT0y1n7Qz6GDFa9lbp1OQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:48:11",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2020KiaNiro Plug-In HybridEX Premium",
@@ -139,7 +163,9 @@
       "source_url": "https://www.nskia.ca/inventory/2020-kia-niro-plug-in-hybrid-ex-premium-S0rWQ7DUR86v9DI9Nj2wBAvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2020-kia-niro-plug-in-hybrid-ex-premium-S0rWQ7DUR86v9DI9Nj2wBAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:48:20",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2021KiaNiro EVEX Premium",
@@ -150,7 +176,9 @@
       "source_url": "https://www.nskia.ca/inventory/2021-kia-niro-ev-ex-premium-EvtE9DEkSvCAyHk7p6nG0Qvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2021-kia-niro-ev-ex-premium-EvtE9DEkSvCAyHk7p6nG0Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:48:30",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2021KiaSeltosSX Turbo",
@@ -161,7 +189,9 @@
       "source_url": "https://www.nskia.ca/inventory/2021-kia-seltos-sx-turbo-8mDMN8LFQHWmrQGYKF71Ngvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2021-kia-seltos-sx-turbo-8mDMN8LFQHWmrQGYKF71Ngvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:48:39",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2021SubaruCrosstrekLimited",
@@ -171,7 +201,9 @@
       "source_url": "https://www.nskia.ca/inventory/2021-subaru-crosstrek-limited-WJpYc287RZKDM3STBxlYHgvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2021-subaru-crosstrek-limited-WJpYc287RZKDM3STBxlYHgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:48:49",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022FordTransit Connect VanXLT",
@@ -181,7 +213,9 @@
       "source_url": "https://www.nskia.ca/inventory/2022-ford-transit-connect-van-xlt-2nC5CPgQSny1d6Ippp5EkQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2022-ford-transit-connect-van-xlt-2nC5CPgQSny1d6Ippp5EkQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:48:58",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2022HondaOdysseyEX-RES",
@@ -192,7 +226,9 @@
       "source_url": "https://www.nskia.ca/inventory/2022-honda-odyssey-ex-res-YzKuG2CUSjOPNFksHBonXAvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2022-honda-odyssey-ex-res-YzKuG2CUSjOPNFksHBonXAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:49:09",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023AcuraMDXPlatinum Elite",
@@ -203,7 +239,9 @@
       "source_url": "https://www.nskia.ca/inventory/2023-acura-mdx-platinum-elite-dkPzBGnnT4WBtOpVH5ruawvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2023-acura-mdx-platinum-elite-dkPzBGnnT4WBtOpVH5ruawvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:49:19",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023KiaRio 5-doorEX Premium",
@@ -213,7 +251,9 @@
       "source_url": "https://www.nskia.ca/inventory/2023-kia-rio-5-door-ex-premium-mdWcjTc3RdSnYLVRYfduEQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2023-kia-rio-5-door-ex-premium-mdWcjTc3RdSnYLVRYfduEQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:49:29",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023KiaRio 5-doorS",
@@ -224,7 +264,9 @@
       "source_url": "https://www.nskia.ca/inventory/2023-kia-rio-5-door-s-k9hT5CHtTXeU485OwQ9Yjwvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2023-kia-rio-5-door-s-k9hT5CHtTXeU485OwQ9Yjwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:49:39",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023KiaSeltosLX",
@@ -235,7 +277,9 @@
       "source_url": "https://www.nskia.ca/inventory/2023-kia-seltos-lx-f0XrbMD3R9CfEi5xULEYowvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2023-kia-seltos-lx-f0XrbMD3R9CfEi5xULEYowvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:49:50",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2023KiaSportageX-Line",
@@ -247,7 +291,9 @@
       "dealer_url": "https://www.nskia.ca/inventory/2023-kia-sportage-x-line-knVfFVxtQJCDMl9uXs3ylgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:50:01",
       "odometer_km": 36751,
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2024ChevroletEquinox1LT",
@@ -257,7 +303,9 @@
       "source_url": "https://www.nskia.ca/inventory/2024-chevrolet-equinox-1lt-W56HrSL6T7Wk8MfwiZbwDQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2024-chevrolet-equinox-1lt-W56HrSL6T7Wk8MfwiZbwDQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:50:10",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2024FordMaverickXLT",
@@ -267,7 +315,9 @@
       "source_url": "https://www.nskia.ca/inventory/2024-ford-maverick-xlt-bNQyZnBtQKudYq0BJZD7Wwvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2024-ford-maverick-xlt-bNQyZnBtQKudYq0BJZD7Wwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:50:21",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2024HyundaiIONIQ 6Preferred",
@@ -277,7 +327,9 @@
       "source_url": "https://www.nskia.ca/inventory/2024-hyundai-ioniq-6-preferred-gjw2xFlERCGEDw1L0GIwKAvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2024-hyundai-ioniq-6-preferred-gjw2xFlERCGEDw1L0GIwKAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:50:32",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2024HyundaiSanta Fe HybridUltimate Calligraphy NHL Special Ed",
@@ -288,7 +340,9 @@
       "source_url": "https://www.nskia.ca/inventory/2024-hyundai-santa-fe-hybrid-ultimate-calligraphy-nhl-special-ed-L80wRPQdSb6cw2ku57GNkQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2024-hyundai-santa-fe-hybrid-ultimate-calligraphy-nhl-special-ed-L80wRPQdSb6cw2ku57GNkQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:50:44",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2024KiaCarnivalSX",
@@ -299,7 +353,9 @@
       "source_url": "https://www.nskia.ca/inventory/2024-kia-carnival-sx-5txJ6r3IQtmoksrucimboQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2024-kia-carnival-sx-5txJ6r3IQtmoksrucimboQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:50:55",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2024KiaNiroEX",
@@ -309,7 +365,9 @@
       "source_url": "https://www.nskia.ca/inventory/2024-kia-niro-ex-q80kbGvyTuiTCLTiuW5ecQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2024-kia-niro-ex-q80kbGvyTuiTCLTiuW5ecQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:51:17",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2024KiaSeltosLX",
@@ -320,7 +378,9 @@
       "source_url": "https://www.nskia.ca/inventory/2024-kia-seltos-lx-eZSasYXFTZCxJKor3guHKgvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2024-kia-seltos-lx-eZSasYXFTZCxJKor3guHKgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:51:28",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2024KiaSoulLX",
@@ -330,7 +390,9 @@
       "source_url": "https://www.nskia.ca/inventory/2024-kia-soul-lx-2HP8qhl6Qym9sEBXBL84yQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2024-kia-soul-lx-2HP8qhl6Qym9sEBXBL84yQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:51:39",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2024KiaSportageX-Line",
@@ -341,7 +403,9 @@
       "source_url": "https://www.nskia.ca/inventory/2024-kia-sportage-x-line-bhfdkWlJTKuQdxeU6iifKQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2024-kia-sportage-x-line-bhfdkWlJTKuQdxeU6iifKQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:51:57",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2024NissanRoguePlatinum",
@@ -351,7 +415,9 @@
       "source_url": "https://www.nskia.ca/inventory/2024-nissan-rogue-platinum-UG1e7YgPQ0qPrbuYwDbAcwvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2024-nissan-rogue-platinum-UG1e7YgPQ0qPrbuYwDbAcwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:52:08",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025AcuraTLXType S",
@@ -362,7 +428,9 @@
       "source_url": "https://www.nskia.ca/inventory/2025-acura-tlx-type-s-PulC7awxRgSHfkPjGU3zWgvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2025-acura-tlx-type-s-PulC7awxRgSHfkPjGU3zWgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:52:18",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025HondaCivic Hatchback HybridSport Touring",
@@ -372,7 +440,9 @@
       "source_url": "https://www.nskia.ca/inventory/2025-honda-civic-hatchback-hybrid-sport-touring-NRCjaQKhTWy6JQX8tIsjLgvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2025-honda-civic-hatchback-hybrid-sport-touring-NRCjaQKhTWy6JQX8tIsjLgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:52:29",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025HondaHR-VSport",
@@ -383,7 +453,9 @@
       "source_url": "https://www.nskia.ca/inventory/2025-honda-hr-v-sport-8t7Vr4UITEmzCQWxTnwLsQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2025-honda-hr-v-sport-8t7Vr4UITEmzCQWxTnwLsQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:52:41",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025KiaK4EX",
@@ -394,7 +466,9 @@
       "source_url": "https://www.nskia.ca/inventory/2025-kia-k4-ex-FdY7xEJzRTSU3CviZUBepAvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2025-kia-k4-ex-FdY7xEJzRTSU3CviZUBepAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:52:51",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025KiaK4EX",
@@ -405,7 +479,9 @@
       "source_url": "https://www.nskia.ca/inventory/2025-kia-k4-ex-bY67W0qeTxu92ggVo4NPXQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2025-kia-k4-ex-bY67W0qeTxu92ggVo4NPXQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:53:01",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025KiaK4LX",
@@ -415,7 +491,9 @@
       "source_url": "https://www.nskia.ca/inventory/2025-kia-k4-lx-5F7dGewHS2iJ529J7oPoOQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2025-kia-k4-lx-5F7dGewHS2iJ529J7oPoOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:53:13",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025KiaSeltosEX",
@@ -425,7 +503,9 @@
       "source_url": "https://www.nskia.ca/inventory/2025-kia-seltos-ex-yYsKgUfJQkGpEJppIbjgaAvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2025-kia-seltos-ex-yYsKgUfJQkGpEJppIbjgaAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:53:23",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025KiaSportageX-Line Limited",
@@ -435,7 +515,9 @@
       "source_url": "https://www.nskia.ca/inventory/2025-kia-sportage-x-line-limited-U8WPHxFwRv2yOZ3EGiX3Egvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2025-kia-sportage-x-line-limited-U8WPHxFwRv2yOZ3EGiX3Egvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:53:35",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025LexusRXRX 350h",
@@ -446,7 +528,9 @@
       "source_url": "https://www.nskia.ca/inventory/2025-lexus-rx-rx-350h-CuNXdUgcRxGLFL8ZPGMgqgvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2025-lexus-rx-rx-350h-CuNXdUgcRxGLFL8ZPGMgqgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:53:45",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2025MINI5 DoorCooper S",
@@ -457,7 +541,9 @@
       "source_url": "https://www.nskia.ca/inventory/2025-mini-5-door-cooper-s-ZnObXpKMSWKr03doSGu1RQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2025-mini-5-door-cooper-s-ZnObXpKMSWKr03doSGu1RQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:54:01",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2026KiaEV4Wind",
@@ -468,7 +554,9 @@
       "source_url": "https://www.nskia.ca/inventory/2026-kia-ev4-wind-j148S7YWTkC8yPSeHEnUgAvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2026-kia-ev4-wind-j148S7YWTkC8yPSeHEnUgAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:54:12",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2026KiaNiro EVWind",
@@ -479,7 +567,9 @@
       "source_url": "https://www.nskia.ca/inventory/2026-kia-niro-ev-wind-AvyxrfGcQoWO0dMbM5pvRAvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2026-kia-niro-ev-wind-AvyxrfGcQoWO0dMbM5pvRAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:54:22",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2026KiaNiro EVWind+",
@@ -490,7 +580,9 @@
       "source_url": "https://www.nskia.ca/inventory/2026-kia-niro-ev-wind-LhcGeCJ7SWCnwArlrIG8xwvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2026-kia-niro-ev-wind-LhcGeCJ7SWCnwArlrIG8xwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:54:33",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2026KiaSportageEX Premium",
@@ -501,7 +593,9 @@
       "source_url": "https://www.nskia.ca/inventory/2026-kia-sportage-ex-premium-RYDOJgiIQOeWhJWYrfXNYwvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2026-kia-sportage-ex-premium-RYDOJgiIQOeWhJWYrfXNYwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:54:44",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "Used2026KiaSportageX-Line Limited",
@@ -511,7 +605,9 @@
       "source_url": "https://www.nskia.ca/inventory/2026-kia-sportage-x-line-limited-EE4i3PwhRKGudjx12D5SAQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2026-kia-sportage-x-line-limited-EE4i3PwhRKGudjx12D5SAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:54:56",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaCarnivalEX",
@@ -524,7 +620,9 @@
       "last_verified": "2026-09-25T19:55:08",
       "price": 52928.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSeltosLX",
@@ -536,7 +634,9 @@
       "last_verified": "2026-09-25T19:55:17",
       "price": 34178.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSportage HybridEX",
@@ -549,7 +649,9 @@
       "last_verified": "2026-09-25T19:55:30",
       "price": 45128.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSportage HybridEX",
@@ -562,7 +664,9 @@
       "last_verified": "2026-09-25T19:55:40",
       "price": 45378.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSportage HybridSX-Prestige",
@@ -575,7 +679,9 @@
       "last_verified": "2026-09-25T19:55:51",
       "price": 51878.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSportage HybridSX-Prestige",
@@ -588,7 +694,9 @@
       "last_verified": "2026-09-25T19:56:03",
       "price": 51878.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaCarnivalEX",
@@ -601,7 +709,9 @@
       "last_verified": "2026-09-26T11:20:38",
       "price": 54543.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaCarnivalEX",
@@ -614,7 +724,9 @@
       "last_verified": "2026-09-26T11:20:51",
       "price": 54543.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaCarnivalEX",
@@ -627,7 +739,9 @@
       "last_verified": "2026-09-26T11:21:01",
       "price": 52543.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaCarnivalLX",
@@ -640,7 +754,9 @@
       "last_verified": "2026-09-26T11:21:13",
       "price": 49393.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaEV4GT-Line Limited",
@@ -653,7 +769,9 @@
       "last_verified": "2026-09-26T11:21:23",
       "price": 54994.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaEV9Light",
@@ -666,7 +784,9 @@
       "last_verified": "2026-09-26T11:21:35",
       "price": 63029.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaK4EX",
@@ -679,7 +799,9 @@
       "last_verified": "2026-09-26T11:21:47",
       "price": 32078.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaK4EX",
@@ -692,7 +814,9 @@
       "last_verified": "2026-09-26T11:21:57",
       "price": 30543.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaK4EX",
@@ -705,7 +829,9 @@
       "last_verified": "2026-09-26T11:22:09",
       "price": 30293.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaK4EX",
@@ -718,7 +844,9 @@
       "last_verified": "2026-09-26T11:22:19",
       "price": 33943.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaK4EX",
@@ -731,7 +859,9 @@
       "last_verified": "2026-09-26T11:22:29",
       "price": 33943.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaK4EX",
@@ -744,7 +874,9 @@
       "last_verified": "2026-09-26T11:22:39",
       "price": 30543.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaK4GT-Line Turbo",
@@ -757,7 +889,9 @@
       "last_verified": "2026-09-26T11:22:51",
       "price": 35543.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaK4 Hatchback",
@@ -769,7 +903,9 @@
       "last_verified": "2026-09-26T11:23:01",
       "price": 31043.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaK4 HatchbackGT-Line Turbo",
@@ -782,7 +918,9 @@
       "last_verified": "2026-09-26T11:23:12",
       "price": 36078.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaK4 HatchbackLX",
@@ -795,7 +933,9 @@
       "last_verified": "2026-09-26T11:23:22",
       "price": 28278.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWave",
@@ -808,7 +948,9 @@
       "last_verified": "2026-09-26T11:23:33",
       "price": 56444.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWave",
@@ -819,7 +961,9 @@
       "source_url": "https://www.nskia.ca/inventory/2026-kia-niro-ev-wave-KKMNaFrTQVSecymLpYoDTgvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2026-kia-niro-ev-wave-KKMNaFrTQVSecymLpYoDTgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T11:23:44",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWave",
@@ -832,7 +976,9 @@
       "last_verified": "2026-09-26T11:23:55",
       "price": 56194.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWave",
@@ -845,7 +991,9 @@
       "last_verified": "2026-09-26T11:24:05",
       "price": 56444.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -858,7 +1006,9 @@
       "last_verified": "2026-09-26T11:24:17",
       "price": 51444.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -871,7 +1021,9 @@
       "last_verified": "2026-09-26T11:24:27",
       "price": 51444.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind+",
@@ -884,7 +1036,9 @@
       "last_verified": "2026-09-26T11:24:39",
       "price": 51444.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind+",
@@ -897,7 +1051,9 @@
       "last_verified": "2026-09-26T11:25:01",
       "price": 51444.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -908,7 +1064,9 @@
       "source_url": "https://www.nskia.ca/inventory/2026-kia-niro-ev-wind-9wpBAxd7SjyTdU8iwlDcogvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2026-kia-niro-ev-wind-9wpBAxd7SjyTdU8iwlDcogvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T11:25:13",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -921,7 +1079,9 @@
       "last_verified": "2026-09-26T11:25:25",
       "price": 48229.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -934,7 +1094,9 @@
       "last_verified": "2026-09-26T11:25:38",
       "price": 51444.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -947,7 +1109,9 @@
       "last_verified": "2026-09-26T11:25:51",
       "price": 48444.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -960,7 +1124,9 @@
       "last_verified": "2026-09-26T11:26:02",
       "price": 51194.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -973,7 +1139,9 @@
       "last_verified": "2026-09-26T11:26:13",
       "price": 48444.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -986,7 +1154,9 @@
       "last_verified": "2026-09-26T11:26:22",
       "price": 51444.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -999,7 +1169,9 @@
       "last_verified": "2026-09-26T11:26:34",
       "price": 51444.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -1012,7 +1184,9 @@
       "last_verified": "2026-09-26T11:26:45",
       "price": 51444.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -1023,7 +1197,9 @@
       "source_url": "https://www.nskia.ca/inventory/2026-kia-niro-ev-wind-h1IMHKIyQwCmTODfyhfq0Avdp",
       "dealer_url": "https://www.nskia.ca/inventory/2026-kia-niro-ev-wind-h1IMHKIyQwCmTODfyhfq0Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T11:26:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -1036,7 +1212,9 @@
       "last_verified": "2026-09-26T11:27:07",
       "price": 51444.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind+",
@@ -1049,7 +1227,9 @@
       "last_verified": "2026-09-26T11:27:17",
       "price": 51194.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -1062,7 +1242,9 @@
       "last_verified": "2026-09-26T11:27:28",
       "price": 51479.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiro EVWind",
@@ -1075,7 +1257,9 @@
       "last_verified": "2026-09-26T11:27:39",
       "price": 51444.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiroLX",
@@ -1088,7 +1272,9 @@
       "last_verified": "2026-09-26T11:27:51",
       "price": 34393.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiroLX",
@@ -1101,7 +1287,9 @@
       "last_verified": "2026-09-26T11:28:02",
       "price": 34143.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiroSX",
@@ -1114,7 +1302,9 @@
       "last_verified": "2026-09-26T11:28:13",
       "price": 43093.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiroSX",
@@ -1127,7 +1317,9 @@
       "last_verified": "2026-09-26T11:28:24",
       "price": 43093.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaNiroSX",
@@ -1140,7 +1332,9 @@
       "last_verified": "2026-09-26T11:28:35",
       "price": 42843.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSeltosLX",
@@ -1153,7 +1347,9 @@
       "last_verified": "2026-09-26T11:28:48",
       "price": 31493.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSeltosSX",
@@ -1164,7 +1360,9 @@
       "source_url": "https://www.nskia.ca/inventory/2026-kia-seltos-sx-oMqtTy9NQdSr1QIC8pF6MQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2026-kia-seltos-sx-oMqtTy9NQdSr1QIC8pF6MQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T11:28:58",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSorento HybridEX",
@@ -1177,7 +1375,9 @@
       "last_verified": "2026-09-26T11:29:11",
       "price": 50043.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSorento HybridEX",
@@ -1190,7 +1390,9 @@
       "last_verified": "2026-09-26T11:29:24",
       "price": 50082.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSorento HybridEX",
@@ -1203,7 +1405,9 @@
       "last_verified": "2026-09-26T11:29:37",
       "price": 50043.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSorento HybridLX",
@@ -1216,7 +1420,9 @@
       "last_verified": "2026-09-26T11:29:47",
       "price": 47093.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSorento HybridLX",
@@ -1229,7 +1435,9 @@
       "last_verified": "2026-09-26T11:29:59",
       "price": 47343.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSorento Plug-In HybridEX",
@@ -1242,7 +1450,9 @@
       "last_verified": "2026-09-26T11:30:10",
       "price": 54843.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageEX",
@@ -1255,7 +1465,9 @@
       "last_verified": "2026-09-26T11:30:22",
       "price": 45893.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageEX",
@@ -1268,7 +1480,9 @@
       "last_verified": "2026-09-26T11:30:33",
       "price": 46257.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageEX",
@@ -1281,7 +1495,9 @@
       "last_verified": "2026-09-26T11:30:45",
       "price": 45893.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageEX",
@@ -1294,7 +1510,9 @@
       "last_verified": "2026-09-26T11:30:57",
       "price": 43643.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageEX",
@@ -1307,7 +1525,9 @@
       "last_verified": "2026-09-26T11:31:08",
       "price": 45893.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageEX",
@@ -1320,7 +1540,9 @@
       "last_verified": "2026-09-26T11:31:19",
       "price": 43543.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageEX",
@@ -1333,7 +1555,9 @@
       "last_verified": "2026-09-26T11:31:31",
       "price": 45893.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageEX",
@@ -1346,7 +1570,9 @@
       "last_verified": "2026-09-26T11:31:42",
       "price": 45928.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageEX Premium",
@@ -1359,7 +1585,9 @@
       "last_verified": "2026-09-26T11:31:54",
       "price": 46193.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageEX",
@@ -1372,7 +1600,9 @@
       "last_verified": "2026-09-26T11:32:05",
       "price": 45893.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageEX",
@@ -1385,7 +1615,9 @@
       "last_verified": "2026-09-26T11:32:16",
       "price": 43543.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageEX",
@@ -1396,7 +1628,9 @@
       "source_url": "https://www.nskia.ca/inventory/2026-kia-sportage-ex-y2CEtZE4SxeEIpcfiUacSwvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2026-kia-sportage-ex-y2CEtZE4SxeEIpcfiUacSwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T11:32:27",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportage HybridEX",
@@ -1409,7 +1643,9 @@
       "last_verified": "2026-09-26T11:32:38",
       "price": 44943.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportage HybridSX-Prestige",
@@ -1422,7 +1658,9 @@
       "last_verified": "2026-09-26T11:32:49",
       "price": 51728.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageLX",
@@ -1435,7 +1673,9 @@
       "last_verified": "2026-09-26T11:32:59",
       "price": 35778.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageLX",
@@ -1446,7 +1686,9 @@
       "source_url": "https://www.nskia.ca/inventory/2026-kia-sportage-lx-7R85D5XrRYGuifSOmN0TYAvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2026-kia-sportage-lx-7R85D5XrRYGuifSOmN0TYAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T11:33:12",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageLX",
@@ -1459,7 +1701,9 @@
       "last_verified": "2026-09-26T11:33:23",
       "price": 37843.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageLX",
@@ -1470,7 +1714,9 @@
       "source_url": "https://www.nskia.ca/inventory/2026-kia-sportage-lx-dGNP65JeQxOp7y1NgixgZwvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2026-kia-sportage-lx-dGNP65JeQxOp7y1NgixgZwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T11:33:32",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageLX",
@@ -1483,7 +1729,9 @@
       "last_verified": "2026-09-26T11:33:45",
       "price": 35993.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageLX",
@@ -1496,7 +1744,9 @@
       "last_verified": "2026-09-26T11:33:58",
       "price": 36028.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageLX",
@@ -1509,7 +1759,9 @@
       "last_verified": "2026-09-26T11:34:10",
       "price": 35993.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageLX",
@@ -1522,7 +1774,9 @@
       "last_verified": "2026-09-26T11:34:22",
       "price": 35993.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageLX",
@@ -1535,7 +1789,9 @@
       "last_verified": "2026-09-26T11:34:34",
       "price": 38128.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageLX",
@@ -1548,7 +1804,9 @@
       "last_verified": "2026-09-26T11:34:45",
       "price": 55343.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageLX",
@@ -1559,7 +1817,9 @@
       "source_url": "https://www.nskia.ca/inventory/2026-kia-sportage-lx-rm2RoJieQMC0tuMqeIgriQvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2026-kia-sportage-lx-rm2RoJieQMC0tuMqeIgriQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T11:34:58",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageLX",
@@ -1572,7 +1832,9 @@
       "last_verified": "2026-09-26T11:35:08",
       "price": 38093.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2026KiaSportageX-Line Limited",
@@ -1585,7 +1847,9 @@
       "last_verified": "2026-09-26T11:35:18",
       "price": 49143.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaCarnivalEX",
@@ -1598,7 +1862,9 @@
       "last_verified": "2026-09-26T11:35:28",
       "price": 52928.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaCarnivalEX",
@@ -1611,7 +1877,9 @@
       "last_verified": "2026-09-26T11:35:41",
       "price": 54928.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaCarnival Hybrid",
@@ -1623,7 +1891,9 @@
       "last_verified": "2026-09-26T11:35:53",
       "price": 60428.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaCarnivalLX",
@@ -1633,7 +1903,9 @@
       "source_url": "https://www.nskia.ca/inventory/2027-kia-carnival-lx-JIvVJQn5SPer28X9NHB01Qvdp",
       "dealer_url": "https://www.nskia.ca/inventory/2027-kia-carnival-lx-JIvVJQn5SPer28X9NHB01Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T11:36:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaCarnivalLX",
@@ -1646,7 +1918,9 @@
       "last_verified": "2026-09-26T11:36:17",
       "price": 50028.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaCarnivalSX+",
@@ -1659,7 +1933,9 @@
       "last_verified": "2026-09-26T11:36:29",
       "price": 59928.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaEV3Land",
@@ -1672,7 +1948,9 @@
       "last_verified": "2026-09-26T11:36:42",
       "price": 46529.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSeltosEX",
@@ -1685,7 +1963,9 @@
       "last_verified": "2026-09-26T11:36:54",
       "price": 40478.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSeltosEX",
@@ -1697,7 +1977,9 @@
       "last_verified": "2026-09-26T11:37:06",
       "price": 37178.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSeltosEX",
@@ -1710,7 +1992,9 @@
       "last_verified": "2026-09-26T11:37:16",
       "price": 37178.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSeltosEX",
@@ -1722,7 +2006,9 @@
       "last_verified": "2026-09-26T11:37:27",
       "price": 40478.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSeltosLX",
@@ -1734,7 +2020,9 @@
       "last_verified": "2026-09-26T11:37:38",
       "price": 34178.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSeltosLX",
@@ -1747,7 +2035,9 @@
       "last_verified": "2026-09-26T11:37:50",
       "price": 32178.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSeltosLX",
@@ -1759,7 +2049,9 @@
       "last_verified": "2026-09-26T11:38:01",
       "price": 34178.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSeltosLX",
@@ -1772,7 +2064,9 @@
       "last_verified": "2026-09-26T11:38:13",
       "price": 31928.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSeltosLX",
@@ -1785,7 +2079,9 @@
       "last_verified": "2026-09-26T11:38:25",
       "price": 32278.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSeltosLX",
@@ -1798,7 +2094,9 @@
       "last_verified": "2026-09-26T11:38:37",
       "price": 34178.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSeltosLX",
@@ -1810,7 +2108,9 @@
       "last_verified": "2026-09-26T11:38:49",
       "price": 32178.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSeltosX-Line SX",
@@ -1821,7 +2121,9 @@
       "source_url": "https://www.nskia.ca/inventory/2027-kia-seltos-x-line-sx-kMSZeRQ0TiKiBo3EmpOt6Avdp",
       "dealer_url": "https://www.nskia.ca/inventory/2027-kia-seltos-x-line-sx-kMSZeRQ0TiKiBo3EmpOt6Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T11:39:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSeltosX-Line SX",
@@ -1834,7 +2136,9 @@
       "last_verified": "2026-09-26T11:39:10",
       "price": 44978.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSportage HybridEX",
@@ -1847,7 +2151,9 @@
       "last_verified": "2026-09-26T11:39:22",
       "price": 45128.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSportage HybridEX",
@@ -1860,7 +2166,9 @@
       "last_verified": "2026-09-26T11:39:34",
       "price": 45378.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSportage HybridEX",
@@ -1873,7 +2181,9 @@
       "last_verified": "2026-09-26T11:39:48",
       "price": 45378.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSportage HybridEX",
@@ -1886,7 +2196,9 @@
       "last_verified": "2026-09-26T11:40:00",
       "price": 45128.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSportage HybridSX",
@@ -1899,7 +2211,9 @@
       "last_verified": "2026-09-26T11:40:10",
       "price": 51628.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSportage HybridSX-Prestige",
@@ -1912,7 +2226,9 @@
       "last_verified": "2026-09-26T11:40:22",
       "price": 51878.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     },
     {
       "name": "New2027KiaSportage HybridSX-Prestige",
@@ -1925,7 +2241,9 @@
       "last_verified": "2026-09-26T11:40:33",
       "price": 51878.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
     }
   ]
 }
