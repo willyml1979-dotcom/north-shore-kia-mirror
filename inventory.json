@@ -1,7 +1,7 @@
 {
   "dealership": "North Shore Kia",
-  "generated_at": "2026-11-17T18:47:33",
-  "vehicle_count": 293,
+  "generated_at": "2026-11-18T18:53:35",
+  "vehicle_count": 292,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -673,6 +673,14 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/4830c02b9f69.html",
       "condition": "new",
       "price": 33943.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2026KiaK4EX",
+      "vin": "3KPFU4DE8TE406924",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/01c58443aa59.html",
+      "condition": "new",
+      "price": 32078.0,
       "price_currency": "CAD"
     },
     {
@@ -1593,22 +1601,6 @@
     },
     {
       "name": "New2026KiaSportageLX",
-      "vin": "KNDPUCDF1T7527902",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/2bd7f0f9dcb7.html",
-      "condition": "new",
-      "price": 38128.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026KiaSportageLX",
-      "vin": "KNDPU3DF2T7502216",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/b024a36ae2c8.html",
-      "condition": "new",
-      "price": 55343.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2026KiaSportageLX",
       "vin": "KNDPUCDF6T7498736",
       "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/f82e91ef5257.html",
       "condition": "new"
@@ -1618,14 +1610,6 @@
       "vin": "KNDPUCDF6T7498736",
       "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/2459f37e55df.html",
       "condition": "new"
-    },
-    {
-      "name": "New2026KiaSportageLX",
-      "vin": "KNDPUCDF9T7516856",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/b8843046e5a3.html",
-      "condition": "new",
-      "price": 38093.0,
-      "price_currency": "CAD"
     },
     {
       "name": "New2026KiaSportageX-Line Limited",
@@ -1665,14 +1649,6 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/0b0f8cef73de.html",
       "condition": "new",
       "price": 52928.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027KiaCarnivalEX",
-      "vin": "KNDNC5K3XV6659127",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/e200a2ffe440.html",
-      "condition": "new",
-      "price": 54928.0,
       "price_currency": "CAD"
     },
     {
@@ -1733,12 +1709,6 @@
     },
     {
       "name": "New2027KiaCarnivalLX",
-      "vin": "KNDNB5K35V6661354",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/b6f122e9708e.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2027KiaCarnivalLX",
       "vin": "KNDNB5K30V6670687",
       "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/6b22fbb5a379.html",
       "condition": "new",
@@ -1775,14 +1745,6 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/0bbc2e06060e.html",
       "condition": "new",
       "price": 49029.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027KiaEV3Land",
-      "vin": "3KMDC4DA3VE003182",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/9681471b4392.html",
-      "condition": "new",
-      "price": 46529.0,
       "price_currency": "CAD"
     },
     {
@@ -1847,14 +1809,6 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/2e80c91d94a8.html",
       "condition": "new",
       "price": 40478.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New2027KiaSeltosEX",
-      "vin": "KNDECCD31V5018858",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/81891ea305ff.html",
-      "condition": "new",
-      "price": 37178.0,
       "price_currency": "CAD"
     },
     {
@@ -2089,6 +2043,14 @@
     },
     {
       "name": "New2027KiaSportage HybridEX",
+      "vin": "KNDPVDDG6V7470529",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/7fa5ff496073.html",
+      "condition": "new",
+      "price": 45378.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2027KiaSportage HybridEX",
       "vin": "KNDPVDDG7V7444540",
       "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/47e71650a354.html",
       "condition": "new",
@@ -2105,14 +2067,46 @@
     },
     {
       "name": "New2027KiaSportage HybridEX Premium",
+      "vin": "KNDPVDDGXV7465592",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/47f198739f2d.html",
+      "condition": "new",
+      "price": 48378.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2027KiaSportage HybridEX Premium",
       "vin": "KNDPVDDG4V7463188",
       "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/28abca4b12c3.html",
       "condition": "new"
     },
     {
       "name": "New2027KiaSportage HybridEX Premium",
+      "vin": "KNDPVDDGXV7465494",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/fae0e52d276f.html",
+      "condition": "new",
+      "price": 48128.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2027KiaSportage HybridEX Premium",
+      "vin": "KNDPVDDG0V7462989",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/248833549f19.html",
+      "condition": "new",
+      "price": 48378.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2027KiaSportage HybridEX Premium",
       "vin": "KNDPVDDG8V7439721",
       "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/55eec5983f93.html",
+      "condition": "new",
+      "price": 48378.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New2027KiaSportage HybridEX Premium",
+      "vin": "KNDPVDDG3V7465563",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-kia-mirror/new/1c0a6e9bf90a.html",
       "condition": "new",
       "price": 48378.0,
       "price_currency": "CAD"

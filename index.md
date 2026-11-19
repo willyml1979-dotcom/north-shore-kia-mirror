@@ -1,6 +1,6 @@
 # North Shore Kia
 
- dealership in North Vancouver. AI-readable inventory mirror, about 293 vehicles.
+ dealership in North Vancouver. AI-readable inventory mirror, about 292 vehicles.
 
 - Official website: https://www.nskia.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/north-shore-kia-mirror/used/
